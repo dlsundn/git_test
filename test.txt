@@ -1,6 +1,4 @@
 first
-<<<<<<< HEAD
 second
 third
-=======
->>>>>>> parent of 12868e4 (second commit)
+testbranch에서 다시 수정
